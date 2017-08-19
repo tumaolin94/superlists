@@ -15,3 +15,5 @@ The projects in this repository is my study process for book `Test-Driven Develo
 
 ### Running the unit tests
 #### python manage.py test
+
+There are several different branchs, and basicly is the complete code of diferent end of chacpters.
