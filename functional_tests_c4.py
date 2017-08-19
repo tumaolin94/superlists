@@ -32,9 +32,10 @@ class NewVisitorTest(unittest.TestCase):
         # (notice the extra s, which means it will return
         # several elements rather than just one)
         table = self.browser.find_element_by_id('id_list_table')
-        rows = table.find_elements_by_tage_name('tr')
-        self.asserTrue(
-            any(row.txt=='1: Buy peacock feathers' for row in rows)
+        rows = table.find_elements_by_tag_name('tr')
+        self.assertTrue(
+            any(row.txt=='1: Buy peacock feathers' for row in rows),
+            "New to-do item did not appear in table"
         )
 
         self.fail('Finish the test!')
