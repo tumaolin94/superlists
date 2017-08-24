@@ -1474,3 +1474,264 @@ Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrp
 1503551832225	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55155/"
 1503551842541	Marionette	INFO	New connections will no longer be accepted
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503552654004	geckodriver	INFO	geckodriver 0.18.0
+1503552654008	geckodriver	INFO	Listening on 127.0.0.1:55658
+1503552656070	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503552656601	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9524] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4652] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13400] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503552657870	Marionette	INFO	Listening on port 55664
+1503552657900	Marionette	INFO	Listening on port 55664
+1503552658082	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503552658111	Marionette	DEBUG	loaded listener.js
+1503552658136	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503552658403	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503552658404	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503552658409	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55657/"
+1503552658419	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55657/"
+1503552660113	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503552660455	geckodriver	INFO	geckodriver 0.18.0
+1503552660460	geckodriver	INFO	Listening on 127.0.0.1:55727
+1503552662525	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503552663048	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11396] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11396] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503552664317	Marionette	INFO	Listening on port 55735
+1503552664341	Marionette	INFO	Listening on port 55735
+1503552664539	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503552664569	Marionette	DEBUG	loaded listener.js
+1503552664592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503552664899	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503552664899	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503552664905	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55657/"
+1503552664914	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55657/"
+1503552665700	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503552666019	geckodriver	INFO	geckodriver 0.18.0
+1503552666024	geckodriver	INFO	Listening on 127.0.0.1:55776
+1503552668092	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503552668619	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13928] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503552669861	Marionette	INFO	Listening on port 55784
+1503552669886	Marionette	INFO	Listening on port 55784
+1503552670106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503552670139	Marionette	DEBUG	loaded listener.js
+1503552670162	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503552670460	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503552670460	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503552670478	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55657/"
+1503552670487	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55657/"
+1503552680855	Marionette	INFO	New connections will no longer be accepted
+1503552711437	geckodriver	INFO	geckodriver 0.18.0
+1503552711442	geckodriver	INFO	Listening on 127.0.0.1:55904
+1503552713502	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503552714021	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11860] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11044] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2676] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503552715293	Marionette	INFO	Listening on port 55910
+1503552715319	Marionette	INFO	Listening on port 55910
+1503552715513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503552715541	Marionette	DEBUG	loaded listener.js
+1503552715560	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503552715837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503552715837	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503552715843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55903/"
+1503552715851	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55903/"
+1503552726484	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503552726819	geckodriver	INFO	geckodriver 0.18.0
+1503552726824	geckodriver	INFO	Listening on 127.0.0.1:55970
+1503552728893	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503552729426	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10348] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503552730718	Marionette	INFO	Listening on port 55977
+1503552730739	Marionette	INFO	Listening on port 55977
+1503552730914	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503552730945	Marionette	DEBUG	loaded listener.js
+1503552730968	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503552731229	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503552731229	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503552731235	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:55903/"
+1503552731244	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:55903/"
+1503552741758	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503553244748	geckodriver	INFO	geckodriver 0.18.0
+1503553244754	geckodriver	INFO	Listening on 127.0.0.1:56163
+1503553246827	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503553247488	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 14208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503553248813	Marionette	INFO	Listening on port 56170
+1503553248834	Marionette	INFO	Listening on port 56170
+1503553248854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503553248897	Marionette	DEBUG	loaded listener.js
+1503553248921	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503553249188	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503553249188	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503553249196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:56162/"
+1503553249213	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:56162/"
+1503553259627	Marionette	INFO	New connections will no longer be accepted
+1503553260032	geckodriver	INFO	geckodriver 0.18.0
+1503553260038	geckodriver	INFO	Listening on 127.0.0.1:56231
+1503553262107	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503553262662	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5700] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3188] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 908] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 908] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503553264150	Marionette	INFO	Listening on port 56247
+1503553264166	Marionette	INFO	Listening on port 56247
+1503553265223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503553265255	Marionette	DEBUG	loaded listener.js
+1503553265273	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503553265540	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503553265540	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503553265546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:56162/"
+1503553265556	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:56162/"
+1503553276052	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1503553305402	geckodriver	INFO	geckodriver 0.18.0
+1503553305407	geckodriver	INFO	Listening on 127.0.0.1:56309
+1503553307477	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503553308010	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503553309342	Marionette	INFO	Listening on port 56315
+1503553309363	Marionette	INFO	Listening on port 56315
+1503553309492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503553309527	Marionette	DEBUG	loaded listener.js
+1503553309549	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503553309819	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503553309819	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503553309826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:56308/"
+1503553309842	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:56308/"
+1503553337436	geckodriver	INFO	geckodriver 0.18.0
+1503553337442	geckodriver	INFO	Listening on 127.0.0.1:56366
+1503553339513	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503553340048	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11360] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503553341359	Marionette	INFO	Listening on port 56372
+1503553341380	Marionette	INFO	Listening on port 56372
+1503553341529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503553341563	Marionette	DEBUG	loaded listener.js
+1503553341592	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503553341868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503553341868	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503553341877	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:56365/"
+1503553341894	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:56365/"
+1503553343585	Marionette	INFO	New connections will no longer be accepted
+1503553343928	geckodriver	INFO	geckodriver 0.18.0
+1503553343933	geckodriver	INFO	Listening on 127.0.0.1:56434
+1503553346005	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503553346550	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503553347829	Marionette	INFO	Listening on port 56442
+1503553347839	Marionette	INFO	Listening on port 56442
+1503553348016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503553348047	Marionette	DEBUG	loaded listener.js
+1503553348066	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503553348328	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503553348329	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503553348337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:56365/"
+1503553348354	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:56365/"
+1503553349166	Marionette	INFO	New connections will no longer be accepted
+1503553349485	geckodriver	INFO	geckodriver 0.18.0
+1503553349490	geckodriver	INFO	Listening on 127.0.0.1:56481
+1503553351561	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503553352132	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503553353425	Marionette	INFO	Listening on port 56489
+1503553353465	Marionette	INFO	Listening on port 56489
+1503553353575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503553353604	Marionette	DEBUG	loaded listener.js
+1503553353631	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503553353894	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503553353894	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503553353902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:56365/"
+1503553353919	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:56365/"
+1503553364301	Marionette	INFO	New connections will no longer be accepted
+1503557379798	geckodriver	INFO	geckodriver 0.18.0
+1503557379803	geckodriver	INFO	Listening on 127.0.0.1:57255
+1503557381860	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503557382372	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11588] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503557383701	Marionette	INFO	Listening on port 57261
+1503557383721	Marionette	INFO	Listening on port 57261
+1503557383876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503557383902	Marionette	DEBUG	loaded listener.js
+1503557383924	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503557384190	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503557384190	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503557384196	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:57254/"
+1503557384206	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:57254/"
+1503557385964	Marionette	INFO	New connections will no longer be accepted
+1503557386319	geckodriver	INFO	geckodriver 0.18.0
+1503557386324	geckodriver	INFO	Listening on 127.0.0.1:57323
+1503557388393	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503557388901	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503557390113	Marionette	INFO	Listening on port 57331
+1503557390127	Marionette	INFO	Listening on port 57331
+1503557390405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503557390433	Marionette	DEBUG	loaded listener.js
+1503557390452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503557390718	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503557390718	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503557390725	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:57254/"
+1503557390741	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:57254/"
+1503557391672	Marionette	INFO	New connections will no longer be accepted
+1503557391997	geckodriver	INFO	geckodriver 0.18.0
+1503557392002	geckodriver	INFO	Listening on 127.0.0.1:57369
+1503557394072	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1503557394575	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13600] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tumao\AppData\Local\openvr\openvrpaths.vrpath
+[Child 844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 844] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1503557395819	Marionette	INFO	Listening on port 57377
+1503557395840	Marionette	INFO	Listening on port 57377
+1503557396085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1503557396116	Marionette	DEBUG	loaded listener.js
+1503557396133	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1503557396397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1503557396397	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1503557396410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:57254/"
+1503557396411	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:57254/"
+1503557406686	Marionette	INFO	New connections will no longer be accepted
